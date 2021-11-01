@@ -1,0 +1,28 @@
+p {
+  font-family: var(--robotoRegular);
+  font-size: var(--robotoRegularSize);
+}
+h1.mission-bg {
+  background-image: url("../../Assets/Images/Group\ 72.png");
+  text-align: center;
+}
+.About-page {
+  padding: 80px;
+}
+.About-page > div > div > p {
+  height: 200px;
+  overflow-y: scroll;
+}
+button.about-read-more {
+  float: right;
+  background-color: #cb2229;
+  border-radius: 7px;
+  opacity: 1;
+  width: 102px;
+  height: 42px;
+  color: white;
+  border: 2px solid #cb2229;
+}
+.h1-bg {
+  text-align: left;
+}

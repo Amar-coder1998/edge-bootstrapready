@@ -1,0 +1,214 @@
+.maindiv {
+  /* top: 8272px; */
+  /* left: 0px; */
+  background: #313073 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.headings {
+  display: flex;
+  justify-content: space-evenly;
+  color: #ffffff;
+}
+
+.line {
+  /* top: 8406px; */
+  /* left: 141px; */
+  background: #29b6f6 0% 0% no-repeat padding-box;
+  opacity: 1;
+  border: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 9px;
+}
+
+.box1 {
+  /* top: 10px; */
+  /* left: 17px; */
+  opacity: 1;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+}
+
+.details {
+  text-align: left;
+  font: normal normal normal 14px/20px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  position: relative;
+}
+
+.phone_call {
+  /* top: 8531px; */
+  /* left: 141px; */
+  /* background: transparent url('img/noun_phone call_4021442.png') 0% 0% no-repeat padding-box; */
+  opacity: 1;
+  vertical-align: middle;
+}
+
+.Email {
+  /* top: 8649px; */
+  /* left: 141px; */
+  vertical-align: middle;
+  /* background: transparent url('img/noun_Email_4270634.png') 0% 0% no-repeat padding-box; */
+  opacity: 1;
+}
+
+.numbers {
+  /* border:  solid 2px;
+  border-color: snow; */
+  text-align: left;
+  font: normal normal normal 14px/30px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+
+  position: relative;
+}
+
+.mail {
+  /* top: 8649px; */
+  /* left: 177px; */
+  text-align: left;
+  font: normal normal normal 14px/30px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  padding-left: 9px;
+}
+
+.box2 {
+  /* top: 8406px; */
+  /* left: 614px; */
+  opacity: 1;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+}
+
+.location {
+  /* top: 8594px; */
+  /* left: 614px; */
+  opacity: 1;
+  font: normal normal normal 14px/5px Roboto;
+}
+
+.box3 {
+  /* top: 8406px; */
+  /* left: 1114px; */
+  opacity: 1;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+}
+
+.map {
+  /* top: 8452px; */
+  /* left: 614px; */
+  /* background: transparent url('img/Simple_world_map.png') 0% 0% no-repeat padding-box;  */
+  opacity: 0.4;
+}
+
+.aboutus {
+  /* top: 8406px; */
+  /* left: 1114px; */
+  opacity: 1;
+  font: normal normal normal 14px/5px Roboto;
+}
+
+.box4 {
+  /* top: 8406px; */
+  /* left: 1417px; */
+  opacity: 1;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+}
+
+.contact {
+  /* top: 8451px; */
+  /* left: 1422px; */
+  text-align: left;
+  font: normal normal normal 14px/5px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.facebook {
+  /* top: 8493px; 
+left: 1417px;   */
+ /* background: transparent url('../../Logos/Footer/facebook/facebook.png') 0% 0% no-repeat padding-box;   */
+  opacity: 1;
+}
+.google {
+  /* top: 8493px; */
+  /* left: 1480px; */
+  /* background: transparent url('../../Logos/Footer/google/google.png') 0% 0% no-repeat padding-box;  */
+  opacity: 1;
+}
+.instagram {
+  /* top: 8493px; */
+  /* left: 1543px; */
+
+  /* background: transparent url('../../Logos/Footer/instagram/instagram.png') 0% 0% no-repeat padding-box;  */
+  opacity: 1;
+}
+.linkedin {
+  /* top: 8493px; */
+  /* left: 1606px; */
+  /* background: transparent url('../../Logos/Footer/linkedin/linkedin.png') 0% 0% no-repeat padding-box;  */
+  opacity: 1;
+}
+.twitter {
+  /* top: 8493px; */
+  /* left: 1669px; */
+  /* background: transparent url('../../Logos/Footer/twitter/twitter.png') 0% 0% no-repeat padding-box;  */
+  opacity: 1;
+}
+.youtube {
+  /* top: 8493px; */
+  /* left: 1732px; */
+
+  /* background: transparent url('../../Logos/Footer/youtube/youtube.png') 0% 0% no-repeat padding-box;  */
+  opacity: 1;
+}
+
+.copy {
+  /* top: 8714px; */
+  /* left: 0px; */
+  background: #212121 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.copyright {
+  /* top: 8722px;
+  left: 829px; */
+  /* width: 262px;
+  height: 14px; */
+  text-align: center;
+  /* 
+  
+  opacity: 1; */
+  color: #78909c;
+  letter-spacing: 0px;
+  font: normal normal normal 12px/30px Roboto;
+}
+
+.logo {
+  /* width: 70px; */
+  /* height: 26px; */
+  /* background: #FFFFFF 0% 0% no-repeat padding-box; */
+  opacity: 1;
+  position: relative;
+  padding: 25px;
+}
+
+.foot {
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.contact-padding {
+  background-color: #313073;
+}

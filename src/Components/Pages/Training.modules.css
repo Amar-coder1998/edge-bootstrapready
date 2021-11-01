@@ -1,0 +1,16 @@
+.serv-feaatures img {
+  max-width: 100%;
+}
+.serv-feaatures > div p {
+  height: 114px;
+  overflow-y: scroll;
+}
+.serv-feaatures > div button {
+  background-color: #cb2229;
+  border-radius: 7px;
+  opacity: 1;
+  width: 102px;
+  height: 42px;
+  color: white;
+  border: 2px solid #cb2229;
+}

@@ -1,0 +1,11 @@
+.start-talk-flex {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.startTalk>div>div>p{
+    height:300px;
+    overflow-y: hidden;
+}
+.starttalk-padding{
+background-color: white;
+}

@@ -1,0 +1,38 @@
+.Contact {
+  background-color: #313073;
+  color: white;
+}
+ .contactpage-padding {
+  padding-left: 40px;
+  padding-right: 46px;
+  background-color: #313073;
+} 
+.contact-head {
+  color: white;
+  text-align: left;
+}
+.contact-divs {
+  margin: 30px 0px;
+}
+.grup-54 {
+  max-width: 100%;
+}
+.contact-input > label {
+  display: block;
+}
+.grup-54-div {
+  padding: 40px;
+}
+.contact-input {
+  padding: 50px 20px;
+  margin: 50px 0px;
+}
+input[type="text"] {
+  width: 40vw;
+  height: 40px;
+}
+textarea {
+  width: 40vw;
+
+  height: 20vh;
+}

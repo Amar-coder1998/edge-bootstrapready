@@ -1,0 +1,50 @@
+.main-page-section {
+  position: relative;
+  margin-top: 56px;
+  overflow-x: hidden;
+  flex-wrap: wrap;
+}
+/* "../../Assets/Images/backgroundimg.png" */
+.bg-img {
+  background: url("../../Assets/Images/backgroundimg.png") no-repeat center
+    center;
+  object-fit: cover;
+  opacity: 0.18;
+  width: 100vw;
+  height: 100vh;
+}
+div.main-content {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
+
+h1 {
+  /* font-size: var(--abrilheadingSize); */
+  font-family: var(--abrilHeading);
+  color: var(--abrilHeadingColor);
+  padding: 30px 0px;
+  text-align: center;
+}
+h1 span {
+  font-family: var(--abrilHeading);
+  font-size: var(--abrilheadingSize) !important;
+  color: var(--abrilRedColor);
+}
+.sps > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+button.home-read-more {
+  background-color: transparent;
+  border: white;
+  opacity: 2;
+  width: 102px;
+
+  color: #005fff;
+}

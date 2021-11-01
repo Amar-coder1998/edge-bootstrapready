@@ -1,0 +1,19 @@
+.shutter-img,
+.stud-group {
+  max-width: 100%;
+}
+
+.services-content,
+.portfolio2-content {
+  padding: 30px;
+  height: 100vh; /* Height given to cover overflow from section*/
+  overflow-y: hidden;
+}
+.services-content > span,
+.services-content > h1,
+.services-content > p {
+  text-align: left;
+}
+.page-suggester {
+  border-left: 10px solid skyblue;
+}

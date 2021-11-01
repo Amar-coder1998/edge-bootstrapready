@@ -1,0 +1,49 @@
+.christina-img,
+.stud-group {
+  max-width: 100%;
+}
+
+.services-content,
+.carrers-content {
+  height: 100vh; /* Height given to cover overflow from section*/
+  overflow-y: hidden;
+}
+.services-content > span,
+.services-content > h1,
+.services-content > p {
+  text-align: left;
+}
+.page-suggester {
+  border-left: 10px solid skyblue;
+}
+.Services p {
+  height: 200px;
+  overflow-y: scroll;
+}
+button {
+  background-color: #cb2229;
+  border-radius: 7px;
+  opacity: 1;
+  width: 102px;
+  height: 42px;
+  color: white;
+  border: 2px solid #cb2229;
+}
+.portfolio2-content > p {
+  height: 200px;
+  overflow-y: scroll;
+}
+h1.portfolio-heading {
+  text-align: left;
+  width: 37.6vw;
+}
+.Carrers > div > div > p {
+  height: 200px;
+  overflow-y: scroll;
+}
+.carrers-content {
+  padding: 70px 0px;
+}
+.carrers-content > button.carres-btn {
+  float: right !important;
+}

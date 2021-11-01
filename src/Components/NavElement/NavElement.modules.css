@@ -1,0 +1,14 @@
+.navigation-bar {
+  background-color: #ffffff;
+}
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 30px;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: end;
+}
